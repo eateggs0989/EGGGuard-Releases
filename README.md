@@ -7,8 +7,8 @@ EGGGuard is a private file encryption application designed to protect files usin
 ## Supported Platforms
 
 - Windows
-- macOS
-- Linux
+- macOS ---- Not public now 
+- Linux ---- Not public now 
 
 ## Download
 
