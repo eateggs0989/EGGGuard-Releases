@@ -71,7 +71,7 @@ Your Original File
           Password
                 │
                 ▼
-        Original File
+        Original File ```
 
 
 ## Supported Platforms
