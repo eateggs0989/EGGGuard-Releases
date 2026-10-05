@@ -42,6 +42,16 @@ You can then send the EGG Container to another person.
 
 The recipient downloads it, opens it with EGGGuard, enters the correct password, and EGGGuard decrypts the container back into the original file.
 
+### Security
+
+EGGGuard uses established cryptographic techniques to protect your files.
+
+- **Scrypt** — derives an encryption key from the user's password.
+- **AES-GCM** — encrypts the file data and provides authentication against unauthorized modification.
+- **Random salt** — generated for each encrypted container.
+- **Random nonce** — generated for each encryption operation.
+- **EGG Container** — packages the encrypted data and required metadata.
+
 ```text
 Your Original File
         │
