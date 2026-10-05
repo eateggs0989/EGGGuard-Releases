@@ -86,7 +86,7 @@ Your Original File
 
 ## Supported Platforms
 
-- Windows
+- Windows ---- Live Now You can use freely 
 - macOS ---- Not public now 
 - Linux ---- Not public now 
 
