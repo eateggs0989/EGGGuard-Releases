@@ -4,6 +4,10 @@
 
 EGGGuard is a private file encryption application designed to protect files using authenticated encryption.
 
+
+<img width="826" height="550" alt="Screenshot 2026-10-05 195638" src="https://github.com/user-attachments/assets/7349b5c3-8089-4ae3-9f1e-1a86194cc8dd" />
+
+
 ## Supported Platforms
 
 - Windows
