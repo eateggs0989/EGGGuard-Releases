@@ -42,7 +42,7 @@ You can then send the EGG Container to another person.
 
 The recipient downloads it, opens it with EGGGuard, enters the correct password, and EGGGuard decrypts the container back into the original file.
 
-```text
+text
 Your Original File
         │
         ▼
@@ -71,7 +71,7 @@ Your Original File
           Password
                 │
                 ▼
-        Original File ```
+        Original File 
 
 
 ## Supported Platforms
